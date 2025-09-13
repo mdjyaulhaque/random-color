@@ -15,7 +15,7 @@ making it useful for design inspiration and practicing JavaScript DOM manipulati
 - `app.js` → Color generation logic  
 
 ## 📸 Preview
-![Demo Screenshot](Random Color/assets/demo.png)
+![Demo Screenshot](https://github.com/mdjyaulhaque/random-color/blob/22455f19f2dee1509eae208e48f781cbc534f3c7/Random%20Color/assets/demo.png)
 
 ## 💡 How to Run
 1. Clone this repository  
