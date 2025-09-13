@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  
+  
+}
+
+
+div{
+  border: solid 1px black;;
+  height: 300px;
+  width: 800px;
+  margin: auto;
+
+  
+}body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+      }
+
+      button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+
+      #color-box {
+        width: 200px;
+        height: 200px;
+        margin: 20px auto;
+        border-radius: 10px;
+        border: 2px solid #000;
+        background-color: lightgray;
+      }
+
+      #color-code {
+        font-weight: bold;
+        font-size: 18px;
+      }
+    
